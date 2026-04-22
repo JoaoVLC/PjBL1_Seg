@@ -1,0 +1,13 @@
+[ {
+  "id" : "967108ef-f595-4b06-8c4b-5a297d9f397b",
+  "nome" : "Joao Teste",
+  "email" : "joao@teste.com",
+  "role" : "USER",
+  "senhaHash" : "$2a$12$fijKjSTQHCh7LXE1YlD08.7o8vXj5nquwcRj5.pfVBSmEFeBJ6.NG"
+}, {
+  "id" : "fe8d266b-6645-42c2-8a5d-7491c5a68e2e",
+  "nome" : "joao lima",
+  "email" : "jvlcecilio@yahoo.com.br",
+  "role" : "USER",
+  "senhaHash" : "$2a$12$bYzhlfoNfnYnVE3rdFm6eeRifI/1hZGwh5wuEYoJLFX5iiYJPX2LC"
+} ]

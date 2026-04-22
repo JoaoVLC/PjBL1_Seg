@@ -1,0 +1,7 @@
+[ {
+  "id" : "52e5c895-735c-484d-ad73-5f08f9b1971e",
+  "nome" : "Alice Silva",
+  "email" : "alice@gmail.com",
+  "role" : "USER",
+  "senhaHash" : "$2a$12$F35uJD3Stq9vxRQI.UkasOZNBF8jOUqUpAKu5mVOgzcF8CIvB2cX."
+} ]
